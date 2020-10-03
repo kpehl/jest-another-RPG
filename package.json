@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command-line RPG using Node and Jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpehl/jest-another-RPG.git"
+  },
+  "author": "Kathleen Pehl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpehl/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/kpehl/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
